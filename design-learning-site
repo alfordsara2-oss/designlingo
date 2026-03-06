@@ -1,0 +1,10 @@
+design-learning-site
+│
+├── index.html
+├── games.html
+├── quiz.html
+├── styles.css
+├── script.js
+│
+└── assets
+     └── logo.png
